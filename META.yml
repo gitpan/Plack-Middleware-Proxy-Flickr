@@ -1,0 +1,30 @@
+---
+abstract: 'Proxy images from Flickr'
+author:
+  - 'Panu Ervamaa <pnu@cpan.org>'
+build_requires:
+  English: 0
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.31
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.200004, CPAN::Meta::Converter version 2.110580'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Plack-Middleware-Proxy-Flickr
+requires:
+  CHI: 0
+  Carp: 0
+  Data::Dumper: 0
+  Flickr::Simple2: 0
+  Moose: 0
+  Plack::Middleware: 0
+  Plack::Util: 0
+  Try::Tiny: 0
+  URI::Escape: 0
+resources:
+  repository: git://github.com/pnu/Plack-Middleware-Proxy-Flickr.git
+version: 0.001
+x_authority: cpan:PNU

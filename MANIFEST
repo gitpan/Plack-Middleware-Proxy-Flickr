@@ -1,0 +1,16 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+dist.ini
+eg/example1.psgi
+lib/Plack/Middleware/Proxy/Flickr.pm
+t/author-critic.t
+t/release-check-changes.t
+t/release-kwalitee.t
+t/release-no-tabs.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
